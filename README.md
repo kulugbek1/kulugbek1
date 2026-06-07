@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamolxodjayev Ulug'bek</h1>
 <h3 align="center">A passionate Web developer from Uzbekistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kulugbek1" alt="kulugbek1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kulugbek1&rank=-C,-B" alt="kulugbek1" /></a> </p>
 
 - 🔭 I’m currently working on [Booktube](https://booktube.vite.app)
 
