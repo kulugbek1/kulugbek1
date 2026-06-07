@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **kamolodjayevulugbek@gmail.com**
 
-- ⚡ Fun fact **I'm going also learning japanese too**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
